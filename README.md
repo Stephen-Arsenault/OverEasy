@@ -11,7 +11,7 @@ Feel free to order the boards from JLCPCB with my [Open Source Hardware link](ht
 
 You will also need the following two parts:
 * [DB-25 Right Angle Connector (Male)](https://www.mouser.com/ProductDetail/Amphenol-Commercial-Products/L717SDB25PA4CH3R?qs=wLKqLMNa9uLx5EBU2ISlaA%3D%3D)
-* [50-pin Connector 2x25 (Female)(https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D25-ST-BK/1990094)
+* [50-pin Connector 2x25 (Female)](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D25-ST-BK/1990094)
 ![Photo of an "Over Easy" SCSI PCB](images/img3.png)
 
 ## Open Source
