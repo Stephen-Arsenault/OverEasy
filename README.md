@@ -10,9 +10,9 @@ If you're looking for a convenient and open source SCSI adapter then "Over Easy"
 Feel free to order the boards from JLCPCB with my [Open Source Hardware link](https://oshwlab.com/stephenarsenault/scsi50-to-db25) or download the gerbers files and modify it for your own use!
 
 You will also need the following two parts:
-* [DB-25 Right Angle Connector (Male)](https://www.mouser.com/ProductDetail/Amphenol-Commercial-Products/L717SDB25PA4CH3R?qs=wLKqLMNa9uLx5EBU2ISlaA%3D%3D)
+* [DB-25 Right Angle Connector (Male)](https://www.mouser.com/ProductDetail/Amphenol-Commercial-Products/L717SDB25P1ACH4F?qs=wLKqLMNa9uK09vZ5aEaCHw%3D%3D)
 * [50-pin Connector 2x25 (Female)](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D25-ST-BK/1990094)
-![Photo of an "Over Easy" SCSI PCB](images/img3.png)
+![Photo of an "Over Easy" SCSI PCB](images/img3.png) ([Non-Keyed also available](https://www.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/929975-01-25-RK?qs=4V84emjyG36i%2FNBH2jFhRw%3D%3D))
 
 ## Open Source
 The Over Easy SCSI adapter is shared with a [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)
