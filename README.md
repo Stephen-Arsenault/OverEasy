@@ -9,3 +9,6 @@ If you're looking for a convenient and open source SCSI adapter then "Over Easy"
 ## Ordering
 Feel free to order the boards from JLCPCB with my [Open Source Hardware link](https://oshwlab.com/stephenarsenault/scsi50-to-db25) or download the gerbers files and modify it for your own use!
 ![Photo of an "Over Easy" SCSI PCB](images/img3.png)
+
+## Open Source
+The Over Easy SCSI adapter is shared with a [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)
