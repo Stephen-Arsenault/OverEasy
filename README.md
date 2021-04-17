@@ -15,5 +15,7 @@ You will also need the following two parts:
 * [DB-25 Right Angle Connector (Male)](https://www.mouser.com/ProductDetail/Amphenol-Commercial-Products/L717SDB25P1ACH4F?qs=wLKqLMNa9uK09vZ5aEaCHw%3D%3D)
 * [50-pin Connector 2x25 (Female)](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D25-ST-BK/1990094) ([Non-Keyed also available](https://www.mouser.com/ProductDetail/3M-Electronic-Solutions-Division/929975-01-25-RK?qs=4V84emjyG36i%2FNBH2jFhRw%3D%3D))
 
+Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
+
 ## Open Source
 The Over Easy SCSI adapter is shared with a [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)
