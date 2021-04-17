@@ -6,6 +6,7 @@ Take it easy! If you're looking for a low profile SCSI adapter then you've found
 ![An unpopulated overeasy II Adapter board](images/overeasyII_1.jpg)
 ![A populated overeasy II Adapter](images/overeasyII_2.jpg)
 ![An overeasy II Adapter on a BlueSCSI](images/overeasyII_3.jpg)
+
 *Take a look at how small the overeasy II is on a [BlueSCSI](https://github.com/erichelgeson/BlueSCSI)!*
 
 ## Ordering & Supplies
