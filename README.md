@@ -1,13 +1,15 @@
-!["Over Easy" wordmark](images/overeasy.png)
+!["Over Easy II" 3D preview](images/overeasyII_banner.png)
 
-# Over Easy — SCSI 50 Pin Male to DB25 Male
+# *What am I looking at?*
+Take it easy! If you're looking for a low profile SCSI adapter then you've found an "easy" option. Even better? It's open source and [open hardware](https://oshwlab.com/stephenarsenault/scsi50-to-db25). The overeasy II converts 50 Pin SCSI male connectos to DB25 male.
 
-## What is it?
-If you're looking for a convenient and open source SCSI adapter then "Over Easy" may be a great option! Designed to convert 50-Pin male SCSI connectors to DB-25, the "Over Easy" is low-profile and suitable for several applications (e.g., mounting the [BlueSCSI](https://github.com/erichelgeson/BlueSCSI) in an enclosure).
-![Photo of an "Over Easy" SCSI Adapter](images/img5.png)
+![An unpopulated overeasy II Adapter board](images/overeasyII_1.jpg =100x)
+![A populated overeasy II Adapter](images/overeasyII_2.jpg =100x)
+![An overeasy II Adapter on a BlueSCSI](images/overeasyII_3.jpg =100x)
+*Take a look at how small the overeasy II is on a [BlueSCSI](https://github.com/erichelgeson/BlueSCSI)!*
 
 ## Ordering
-Feel free to order the boards from JLCPCB with my [Open Source Hardware link](https://oshwlab.com/stephenarsenault/scsi50-to-db25) or download the gerbers files and modify it for your own use!
+Feel free to order the boards from JLCPCB with my [Open Source Hardware link]() or download the gerbers files and modify it for your own use!
 ![Photo of an "Over Easy" SCSI PCB](images/img3.png)
 
 ## Open Source
