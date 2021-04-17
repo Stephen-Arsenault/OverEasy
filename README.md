@@ -10,7 +10,7 @@ Take it easy! If you're looking for a low profile SCSI adapter then you've found
 *Take a look at how small the overeasy II is on a [BlueSCSI](https://github.com/erichelgeson/BlueSCSI)!*
 
 ## Ordering & Supplies
-Feel free to order the boards from JLCPCB with my [Open Source Hardware link]() or download the gerbers files and modify it for your own use!
+Feel free to order the boards from JLCPCB with my [Open Source Hardware link](https://oshwlab.com/stephenarsenault/scsi50-to-db25) or download the gerbers files and modify it for your own use!
 
 You will also need the following two parts:
 * [DB-25 Right Angle Connector (Male)](https://www.mouser.com/ProductDetail/Amphenol-Commercial-Products/L717SDB25P1ACH4F?qs=wLKqLMNa9uK09vZ5aEaCHw%3D%3D)
