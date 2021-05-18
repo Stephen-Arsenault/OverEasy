@@ -1,7 +1,7 @@
 !["Over Easy II" 3D preview](images/overeasyII_banner.png)
 
 # *What am I looking at?*
-Take it easy! If you're looking for a low profile SCSI adapter then you've found an "easy" option. Even better? It's open source and [open hardware](https://oshwlab.com/stephenarsenault/scsi50-to-db25). The overeasy II converts 50 Pin SCSI male connectos to DB25 male.
+Take it easy! If you're looking for a low profile SCSI adapter then you've found an "easy" option. Even better? It's open source and [open hardware](https://oshwlab.com/stephenarsenault/scsi50-to-db25). The Over Easy II converts 50 Pin SCSI male connectors to DB25 male.
 
 ![An unpopulated overeasy II Adapter board](images/overeasyII_1.jpg)
 ![A populated overeasy II Adapter](images/overeasyII_2.jpg)
