@@ -31,6 +31,7 @@ Feel free to order the boards from JLPCB with my [Open Source Hardware link](htt
 You will also need the following parts:
 * Right Angle through-hole 50 POS female connector [Mouser](https://www.mouser.com/ProductDetail/517-30350-5002)
 * Through hole 34 POS Male connector [Digikey](https://www.digikey.com/en/products/detail/sullins-connector-solutions/SFH11-PBPC-D17-ST-BK/1990092)
+* (Optional) You might want a 50-pin ribbon cable. ([Amazon](https://www.amazon.com/Fielect-Connector-Extension-Conductor-Breadboard/dp/B0817XPB4F/))
 
 ## Open Source
 The Over Easy SCSI adapter is shared with a [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)
