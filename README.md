@@ -19,7 +19,8 @@ You will also need the following parts:
 
 Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
 
-![An overeasy hungover for the Macintosh Portable](images/overeasy_hungover_beautyshot.jpg)
+![An Overeasy Hungover for the Macintosh Portable](images/overeasy_hungover_beautyshot1.jpg)
+![Installed Overeasy Hungover](images/overeasy_hungover_beautyshot2.jpg)
 
 # Overeasy Hungover
 Want 50-pin SCSI support on your Macintosh Portable? Then maybe you need a little hangover. This adapter lets it all hang out on the the logic board so you can plug in your BlueSCSI or other less popular SCSI products directly. Need a little boost? There's 5V and 12V lines chilling out by the namesake silkscreening.
