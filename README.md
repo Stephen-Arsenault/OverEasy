@@ -1,5 +1,5 @@
 !["Over Easy II" 3D preview](images/overeasyII_banner.png)
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # *What am I looking at?*
 Take it easy! If you're looking for a low profile SCSI adapter then you've found an "easy" option. Even better? It's open source and [open hardware](https://oshwlab.com/stephenarsenault/scsi50-to-db25). The Over Easy II converts 50 Pin SCSI male connectors to DB25 male.
@@ -40,9 +40,7 @@ The Over Easy SCSI adapter is shared with a [TAPR Open Hardware License](https:/
 
 ## License
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
